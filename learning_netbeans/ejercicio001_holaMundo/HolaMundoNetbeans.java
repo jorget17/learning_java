@@ -8,7 +8,7 @@
  *
  * @author user
  */
-public class HolaMundo {
+public class HolaMundoNetbeans {
 
     /**
      * @param args the command line arguments
